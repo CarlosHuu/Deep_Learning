@@ -1,2 +1,2 @@
-# Deep_Learning
-113 autumn
+# EEIE30077
+Deep_Learning
